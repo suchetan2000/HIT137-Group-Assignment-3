@@ -1,0 +1,6 @@
+Link: https://github.com/Assignment137/HIT137-Group-Assignment-3.git
+
+
+This Packages are needed to be installed
+
+pip install image pillow opencv-python
